@@ -1,4 +1,5 @@
 <b>3nplus1</b>
+
 The 3n+1 sequence is generated as follows. Starting from a number n, we get the next number in the sequence by doing this:
 
 - If n is even, the next number is n/2.
