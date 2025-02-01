@@ -1,5 +1,4 @@
 <b>Addition of 2 numbers</b>
-
 Wallaby is learning about math. He would like add 2 numbers. Please help him!
 
 
