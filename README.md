@@ -1,5 +1,5 @@
 # codebreaker-answers
-This collection is meant for the following purposes\
+This collection is meant for the following purposes:\
 a) my viewing pleasure ✈️✈️✈️\
 b) bragging rights\
 c) if you are interested in knowing how i code under pressure\
