@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//idk how this works either copied from elsewhere
+//idk how this works either copied from man-made intelligence
 
 inline int readInt() {
     int x = 0;
