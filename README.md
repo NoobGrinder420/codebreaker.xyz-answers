@@ -2,7 +2,6 @@
 This collection is meant for the following purposes:\
 a) for me to learn and practice git and github\
 b) my viewing pleasure ✈️✈️✈️\
-c) bragging rights\
 d) if you need assistance with a codebreaker problem
 
 
